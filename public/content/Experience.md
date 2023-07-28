@@ -1,27 +1,27 @@
 ## Company 1
-- *Role* | Jan'23 - Feb'23
+- Développeur full stack js (MERN) | Jan'22 - JUN'22
 - ![logo512](../assets/logo512.png)
-- Tags: Category 1
+- Tags: Experience 1
 - Badges:
   - Badge [blue]
 - List Items:
   - Point 1
   - Point 2
 
-## Company 2
-- *Role* | Feb'23 - Mar'23
+## BDSI
+- "developper MEAN Stack  "| Feb'23 - Mar'23
 - ![logo512](../assets/logo512.png)
-- Tags: Category 2
+- Tags: Experience 2
 - Badges:
   - Badge [blue]
 - List Items:
   - Point 1
   - Point 2
 
-## Company 3
-- *Role* | Mar'23 - Apr'23
+## GoMyCode
+- "developper MERN stack JS " | Mar'23 - Apr'23
 - ![logo512](../assets/logo512.png)
-- Tags: Category 3
+- Tags: Experience 3
 - Badges:
   - Badge [blue]
 - List Items:

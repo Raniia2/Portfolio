@@ -1,26 +1,26 @@
-## Project A
-Description
-- ![600x200](https://via.placeholder.com/600x200)
+## Blog 
+- blog 
+- ![blog ](../assets/blog.jpg)
 - Tags: Category 1
 - Badges:
   - Badge [blue]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://github.com/Raniia2]
 
-## Project B
-Description
-- ![600x200](https://via.placeholder.com/600x200)
+## Drive 
+- Driving school web application
+- ![drive](../assets/drive.png)
 - Tags: Category 2
 - Badges:
   - Badge [blue]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://github.com/Raniia2]
 
-## Project C
-Description
-- ![600x200](https://via.placeholder.com/600x200)
+## Smart School
+- School Expert web application 
+- ![scoul](../assets/scoul.png)
 - Tags: Category 3
 - Badges:
   - Badge [blue]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://github.com/Raniia2]
